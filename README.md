@@ -1,4 +1,4 @@
-# 🎬 CertiCore NFT Showcase
+# 🎬 CertiCore NFT Showcase!
 
 A professional showcase website for displaying your animated CertiCore KYC certificates.
 
